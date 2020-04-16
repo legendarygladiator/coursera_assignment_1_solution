@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
@@ -306,6 +305,3 @@ p{
       </div>
       <div class="clear-fix"></div>
     </div>
-  </body>
-  </html>
-
